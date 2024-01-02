@@ -1,0 +1,39 @@
+/*!
+ * Copyright 2016 The ANTLR Project. All rights reserved.
+ * Licensed under the BSD-3-Clause license. See LICENSE file in the project root for license information.
+ */
+
+/*!
+ * The buffer module from node.js, for the browser.
+ *
+ * @author   Feross Aboukhadijeh <feross@feross.org> <http://feross.org>
+ * @license  MIT
+ */
+
+/*! noble-hashes - MIT License (c) 2022 Paul Miller (paulmillr.com) */
+
+/*! regenerator-runtime -- Copyright (c) 2014-present, Facebook, Inc. -- license (MIT): https://github.com/facebook/regenerator/blob/main/LICENSE */
+
+/*! safe-buffer. MIT License. Feross Aboukhadijeh <https://feross.org/opensource> */
+
+/**
+ * @license
+ * https://github.com/ealmansi/cashaddrjs
+ * Copyright (c) 2017-2020 Emilio Almansi
+ * Distributed under the MIT software license, see the accompanying
+ * file LICENSE or http://www.opensource.org/licenses/mit-license.php.
+ */
+
+/**
+ * @license qrcode.react
+ * Copyright (c) Paul O'Shannessy
+ * SPDX-License-Identifier: ISC
+ */
+
+/***
+ * @license
+ * https://github.com/ealmansi/bchaddrjs
+ * Copyright (c) 2018-2020 Emilio Almansi
+ * Distributed under the MIT software license, see the accompanying
+ * file LICENSE or http://www.opensource.org/licenses/mit-license.php.
+ */
